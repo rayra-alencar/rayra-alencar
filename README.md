@@ -3,8 +3,17 @@
 
 <body>
   <div align=center>
-    <p> ☆.。.:*・°☆.。.:*・°☆⋆ ☆.。.:*・°☆.。.:*・°  <b>hi</b>  ☆.。.:*・°☆.。.:*・°☆⋆ ☆.。.:*・°☆.。.:*・°☆⋆</p>
-    <p><img src="https://64.media.tumblr.com/45fe8fbc09dd26fa8744bfa9eba7e91d/tumblr_omarkcSEsy1w6mdrno1_250.gifv" alt="rayra-alencar" /></p>
-     <p> ☆.。.:*・°☆.。.:*・°☆⋆ ☆.。.:*・°☆.。.:*・°  tools  ☆.。.:*・°☆.。.:*・°☆⋆ ☆.。.:*・°☆.。.:*・°☆⋆</p>
+    <p> ☆.。.:*・°☆.。.:*・°☆⋆ ☆.。 <b>hi</b>   ☆.。.:*・°☆.。.:*・°☆⋆</p>
   </div>
 </body>
+
+```javascript
+const ray = {
+  code: {
+      frontEnd: [TypeScript, React, Next.js, HTML, Sass, Bootstrap, Material UI, Chakra UI],
+      backEnd: [Node, NestJS],
+    },
+  tools: [Docker, RabbitMQ, Jest, "REST APIs"],
+  architecture: ["Microservices", "Event-driven", "Design System Pattern"],
+}
+```
