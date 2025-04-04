@@ -10,7 +10,7 @@
 ```javascript
 const ray = {
   code: {
-      frontEnd: [JavaScript, TypeScript, React, Next.js, HTML, Sass, Bootstrap, Material UI, Chakra UI],
+      frontEnd: [JavaScript, TypeScript, React, NextJS, HTML, Sass, Bootstrap, Material-ui, Chakra-ui],
       backEnd: [Node, NestJS],
     },
   tools: [Docker, RabbitMQ, Jest, "REST APIs"],
