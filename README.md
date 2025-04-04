@@ -9,11 +9,13 @@
 
 ```javascript
 const ray = {
+  position: "Software Developer"
   code: {
-      frontEnd: [JavaScript, TypeScript, React, NextJS, HTML, Sass, Bootstrap, Material-ui, Chakra-ui],
+      frontEnd: [JavaScript, TypeScript, React, NextJS, HTML, CSS, Sass, Bootstrap, MaterialUI, ChakraUI],
       backEnd: [Node, NestJS],
-    },
-  tools: [Docker, RabbitMQ, Jest, "REST APIs"],
+      devops: [Docker]
+      misc: [RabbitMQ, Jest, "REST APIs", GIT, Scrum],
+    },  
   architecture: ["Microservices", "Event-driven", "Design System Pattern"],
 }
 ```
