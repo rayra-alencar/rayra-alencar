@@ -1,11 +1,5 @@
 
-
-
-<body>
-  <div align=center>
-    <p> ☆.。.:*・°☆.。.:*・°☆⋆ ☆.。 <b>hi</b>   ☆.。.:*・°☆.。.:*・°☆⋆</p>
-  </div>
-</body>
+##  ![gif](https://yokai.crd.co//assets/images/gallery15/e9dfa3ef.gif?v=b4df531c) Hello
 
 ```javascript
 const ray = {
