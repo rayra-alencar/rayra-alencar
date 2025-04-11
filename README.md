@@ -3,7 +3,7 @@
 
 ```javascript
 const ray = {
-  position: "Software Developer"
+  position: "Fullstack Developer"
   code: {
       frontEnd: [JavaScript, TypeScript, React, NextJS, HTML, CSS, Sass, Bootstrap, MaterialUI, ChakraUI],
       backEnd: [Node, NestJS],
