@@ -3,18 +3,17 @@
 
 ```javascript
 const ray = {
-  position: "Fullstack Developer",
+  position: FullstackDeveloper,
   code: {
     frontEnd: [
-      "JavaScript", "TypeScript", "React", "NextJS",
-      "HTML", "CSS", "Sass", "Bootstrap",
-      "MaterialUI", "ChakraUI", "Vite"
+      JavaScript, TypeScript, React, NextJS,
+      HTML, CSS, Sass, Bootstrap,
+      MaterialUI, ChakraUI, Vite
     ],
-    backEnd: ["Node", "NestJS"],
-    devops: ["Docker", "Netlify"],
-    misc: ["RabbitMQ", "Jest", "REST APIs", "GIT", "Scrum"],
+    backEnd: [Node, NestJS],
+    devops: [Docker, Netlify],
+    misc: [RabbitMQ, Jest, REST_APIs, GIT, Scrum],
   },
-  architecture: ["Microservices", "Event-driven", "Design System Pattern"],
+  architecture: [Microservices, Event_driven, DesignSystemPattern],
 }
-
 ```
